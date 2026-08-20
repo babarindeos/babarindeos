@@ -65,6 +65,23 @@ Full-stack developer and systems programmer with 15+ years of experience designi
 
 ### 📱 Featured Projects
 
+- **Image Recognition — CNN & KNN Hybrid Classification (PyTorch)**
+  - [Image-recognition](https://github.com/babarindeos/Image-recognition) — A computer vision project exploring image classification on the CIFAR-10 dataset using Convolutional Neural Networks (CNN) and K-Nearest Neighbors (KNN), including a hybrid approach that extracts deep CNN feature embeddings, reduces dimensionality with PCA, and classifies with KNN. Iterates through multiple modeling strategies — from a custom CNN architecture to a fine-tuned ResNet-18 with strong data augmentation — comparing accuracy across approaches. Built with PyTorch, torchvision, scikit-learn, NumPy, and Matplotlib in Jupyter Notebook.
+
+- **FUNAAB Workforce Staff Portal (Laravel)**
+  - [funaab-workforce](https://github.com/babarindeos/funaab-workforce) — A Laravel-based HR Management System for Federal University of Agriculture, Abeokuta, digitizing staff records, leave management, career progression, and APER performance evaluations across dedicated Admin and Staff self-service portals. Currently tracks 1,247+ staff across 48 departments and 9 colleges. Built with Laravel, TailwindCSS, Alpine.js, and MySQL.
+
+- **FUNAAB Exam Timetable Management System (Laravel)**
+  - [funaab_etms](https://github.com/babarindeos/funaab_etms) — A Laravel-based system for scheduling university exam timetables, invigilators, and observers.
+
+- **Job/Recruitment Portal (Laravel)**
+  - [job-portal](https://github.com/babarindeos/job-portal) — A Laravel-based recruitment/job application portal built for university workplace processes.
+
+- **Customer Service API (ASP.NET Core)**
+  - [CustomersApiApp](https://github.com/babarindeos/CustomersApiApp) — A Customer Service REST API built with ASP.NET Core.
+  - [CustomersApi_minimalist](https://github.com/babarindeos/CustomersApi_minimalist) — A minimal-API implementation of an ASP.NET Core Web API, demonstrating a lightweight approach to building backend services.
+
+
 ---
 
 

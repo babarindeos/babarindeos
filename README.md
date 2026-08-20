@@ -65,22 +65,6 @@ Full-stack developer and systems programmer with 15+ years of experience designi
 
 ### 📱 Featured Projects
 
-- **Job Application App (Flutter)**
-  - [job_app](https://github.com/babarindeos/job_app) — A Dart/Flutter mobile application built for streamlined job applications.
-
-- **eAgriservicomm (PHP)**
-  - [eAgriservicomm](https://github.com/babarindeos/eAgriservicomm) — An agricultural services web application built with PHP.
-
-- **Flutter UI/Navigation Explorations**
-  - [Persistent-Bottom-Navigation-Bar](https://github.com/babarindeos/Persistent-Bottom-Navigation-Bar) — Persistent bottom navigation bar implementation in Flutter.
-  - [adaptive_bottom_nav_sample](https://github.com/babarindeos/adaptive_bottom_nav_sample) — Platform-aware, Instagram-like bottom navigation for Flutter.
-
-- **Firebase + Flutter Integration**
-  - [Firebase-Flutter-tutorials](https://github.com/babarindeos/Firebase-Flutter-tutorials) — Source code exploring Firebase integration with Flutter apps.
-
-- **Hackathon Work**
-  - [hackfest2016](https://github.com/babarindeos/hackfest2016) — Project built during Hackfest 2016 at Lagos State University, Nigeria.
-
 ---
 
 

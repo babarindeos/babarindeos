@@ -9,7 +9,7 @@ Full-stack developer and systems programmer with 15+ years of experience designi
 
 ### 🚀 About Me
 
-- 🔭 I'm currently working on developing an enterprise resource planning (ERP) system built on a microservices architecture for an organization, focused on scalable, modular system design.
+- 🔭 I'm currently working on developing an Enterprise Resource Planning (ERP) system built on a microservices architecture for an organization, focused on scalable, modular system design.
 - 🌱 I'm continuously sharpening my skills in Machine Learning (PyTorch, TensorFlow), Backend Technologies (C#/ASP.NET Core, PHP/Laravel), Cloud Services (AWS, Azure), DevOps, and full-stack web development
 - 💼 95+ public repositories on GitHub, spanning mobile, web, and backend projects
 - 💬 Ask me about Backend Services, Computer Vision, Machine Learning, C#, ASP.NET, PHP, Laravel

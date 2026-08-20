@@ -3,7 +3,7 @@
 
 <table> <tr> <td width="70%" valign="middle">
 
-Full-stack developer and systems programmer with 15+ years of experience designing, building, and maintaining enterprise-grade web platforms. Currently Chief System Programmer at the Federal University of Agriculture, Abeokuta, where I lead development of mission-critical systems. Skilled across C#/ASP.NET, PHP/Laravel, Python/Django/Flask, ReactJS with growing expertise in machine learning (PyTorch, TensorFlow, scikit-learn), and applied AI (OpenAI API, prompt engineering). ISC2 Certified in Cybersecurity, with a strong foundation in data science from WorldQuant University. Passionate about building scalable, secure systems that solve real institutional problems — and about continuously expanding into modern AI-driven development.
+Full-stack developer and systems programmer with 15+ years of experience designing, building, and maintaining enterprise-grade web platforms. Currently Chief System Programmer at the Federal University of Agriculture, Abeokuta, where I lead development of mission-critical systems. Skilled across C#/ASP.NET, PHP/Laravel, Python/Django/Flask, ReactJS with growing expertise in machine learning (PyTorch, TensorFlow, scikit-learn), and applied AI (OpenAI API, prompt engineering). ISC2 Certified in Cybersecurity, with a strong foundation in data science from WorldQuant University, USA. Passionate about building scalable, secure systems that solve real institutional problems — and about continuously expanding into modern AI-driven development.
 </td> <td width="30%" align="center" valign="middle"> <img src="https://github.com/babarindeos.png" width="150" height="150" style="border-radius:50%;" alt="Babarinde Oluwaseyi Abiodun"/> </td> </tr> </table>
 ---
 

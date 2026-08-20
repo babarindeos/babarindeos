@@ -2,7 +2,7 @@
 <h3 align="center"><a href="https://github.com/babarindeos">Programmer</a> | Full-Stack Software Developer</h3>
 
 <p align="center">
-Full-stack developer and systems programmer with 15+ years of experience designing, building, and maintaining enterprise-grade web platforms in higher education. Currently Chief System Programmer at the Federal University of Agriculture, Abeokuta, where I lead development of mission-critical systems. Skilled across C#/ASP.NET, PHP/Laravel, Python/Django/Flask, ReactJS, Flutter/Dart, and Oracle database technologies, with growing expertise in machine learning (PyTorch, TensorFlow, scikit-learn), and applied AI (OpenAI API, prompt engineering). ISC2 Certified in Cybersecurity, with a strong foundation in data science from WorldQuant University. Passionate about building scalable, secure systems that solve real institutional problems — and about continuously expanding into modern AI-driven development.
+Full-stack developer and systems programmer with 15+ years of experience designing, building, and maintaining enterprise-grade web platforms in higher education. Currently Chief System Programmer at the Federal University of Agriculture, Abeokuta, where I lead development of mission-critical systems. Skilled across C#/ASP.NET, PHP/Laravel, Python/Django/Flask, ReactJS with growing expertise in machine learning (PyTorch, TensorFlow, scikit-learn), and applied AI (OpenAI API, prompt engineering). ISC2 Certified in Cybersecurity, with a strong foundation in data science from WorldQuant University. Passionate about building scalable, secure systems that solve real institutional problems — and about continuously expanding into modern AI-driven development.
 </p>
 
 ---
@@ -20,14 +20,13 @@ Full-stack developer and systems programmer with 15+ years of experience designi
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" width="32" height="32" alt="" title="C#"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dart.svg" width="32" height="32" alt="Dart" title="Dart"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firebase.svg" width="32" height="32" alt="Firebase" title="Firebase"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" width="32" height="32" alt="C#" title="C#"/> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dotnet.svg" width="32" height="32" alt="ASP.NET Core" title="ASP.NET Core"/>  
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" width="32" height="32" alt="PHP" title="PHP"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" width="32" height="32" alt="MySQL" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg" width="32" height="32" alt="AWS" title="AWS"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftazure.svg" width="32" height="32" alt="Azure" title="Azure"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" width="32" height="32" alt="Git" title="Git"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="32" height="32" alt="GitHub" title="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/androidstudio.svg" width="32" height="32" alt="Android Studio" title="Android Studio"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" width="32" height="32" alt="Python" title="Python"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pytorch.svg" width="32" height="32" alt="PyTorch" title="PyTorch"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tensorflow.svg" width="32" height="32" alt="TensorFlow" title="TensorFlow"/>
@@ -61,35 +60,6 @@ Full-stack developer and systems programmer with 15+ years of experience designi
 - **Programming Mobile Applications for Android Handheld Systems** — University of Maryland, USA, 2015
 
 **Professional Memberships:** Nigeria Computer Society (NCS) · Computer Professionals of Nigeria (CPN) · Oracle Academy Faculty Member
-
----
-
-### 💼 Work Experience
-
-**Federal University of Agriculture, Abeokuta (FUNAAB)** — *Directorate of ICT Services*
-
-- **Asst. Chief Data Analyst** — *Oct 2023 – Present*
-  Design and development of the University Staff Portal (Nominal Roll, APER, Promotion processes), the recruitment portal, TIMTEC exam-scheduling portal, e-Senate platform, DRIP/IBR-Tetfund conference system, and Clearance/SIWES/Yearbook/ICGNS portals. Technical expert on the recruitment advisory committee.
-
-- **Principal Data Analyst** — *Oct 2020 – Sep 2023*
-  Led design, deployment, and maintenance of the University website and sub-sites; automated Clearance and SIWES processes; served as Principal Investigator hosting the continental H3ABioNet Bioinformatics training (Cape Town & Pretoria, South Africa); developed online learning platforms.
-
-- **Senior Data Analyst** — *Oct 2017 – Sep 2020*
-  Managed the University website and sub-sites; served as Oracle Academy Institution Administrator & Faculty, training staff and students on Oracle database and infrastructure; administered university social media platforms.
-
-- **Data Analyst I** — *Oct 2014 – Sep 2017*
-  Built the Distance Learning Website, eLearning platforms, FUNAAB Scholars showcase, and FUNAAB Microfinance Bank website; contributed to moving the University from 8th to 2nd position in Nigeria's University Web Ranking.
-
-- **Technologist II** — *Oct 2009 – Sep 2014*
-  Developed the FUNIS Application & Admission Portal, Careers & Employment Portal, e-Exam Portal, and an Assets Monitoring System for Internal Audit; delivered Java and Visual Basic .NET training.
-
-**Federal College of Education (Technical), Gombe**
-
-- **Computer Technologist** — *2007 – 2009*
-  Improved and administered the college website/portal, built a Human Resource Management System, and provided network support and MS Office training.
-
-- **NYSC (Corps Member)** — *2006 – 2007*
-  Designed and built the college's first website and student portal, covering admissions, course registration, and result checking.
 
 ---
 

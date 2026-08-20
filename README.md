@@ -21,7 +21,7 @@ Full-stack developer and systems programmer with 15+ years of experience designi
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" width="32" height="32" alt="C#" title="C#"/> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dotnet.svg" width="32" height="32" alt="ASP.NET Core" title="ASP.NET Core"/>  
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/dotnet.svg" width="32" height="32" alt="ASP.NET Core" title="ASP.NET Core"/> 
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" width="32" height="32" alt="PHP" title="PHP"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg" width="32" height="32" alt="AWS" title="AWS"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftazure.svg" width="32" height="32" alt="Azure" title="Azure"/>
@@ -30,7 +30,7 @@ Full-stack developer and systems programmer with 15+ years of experience designi
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" width="32" height="32" alt="Python" title="Python"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pytorch.svg" width="32" height="32" alt="PyTorch" title="PyTorch"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tensorflow.svg" width="32" height="32" alt="TensorFlow" title="TensorFlow"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/scikitlearn.svg" width="32" height="32" alt="scikit-learn" title="scikit-learn"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/scikitlearn.svg" width="32" height="32" alt="scikit-learn" title="scikit-learn"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/openai.svg" width="32" height="32" alt="OpenAI API" title="OpenAI API"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pandas.svg" width="32" height="32" alt="Pandas" title="Pandas"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/numpy.svg" width="32" height="32" alt="NumPy" title="NumPy"/>

@@ -83,14 +83,6 @@ Full-stack developer and systems programmer with 15+ years of experience designi
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=babarindeos&show_icons=true&theme=default" alt="babarindeos's GitHub stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=babarindeos&layout=compact&theme=default" alt="Top Languages" width="48%"/>
-</p>
-
----
 
 ### 🤳 Connect with Me
 
